@@ -1,4 +1,4 @@
-### Olá! Meu nome é Yan Leal 👋
+## Olá! Meu nome é Yan Leal 👋
 Sou técnico em desenvolvimento de sistemas<br><br>💻 Portfólio em construção<br>📖 Atualmente aprendendo Flutter e Kotlin
 
 ## 🌐 Contatos:
