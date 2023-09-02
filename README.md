@@ -2,7 +2,7 @@
 Sou técnico em desenvolvimento de sistemas<br>💻 Portfólio em construção<br>📖 Atualmente aprendendo Flutter e Kotlin
 
 ## 🌐 Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-leal-nascimento-451379227/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](ttps://www.youtube.com/@yleall7079) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-leal-nascimento-451379227/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCggeGpBBU5PIsiamKWYebow) 
 
 # 💻 Tecnologias:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
