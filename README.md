@@ -10,7 +10,7 @@
 
 Me chamo **Yan**, tenho 2 anos de QA e curso Engenharia de Software na UCSAL.
 
-Meu trabalho é achar o que quebrou antes do cliente achar — e descrever de um jeito que o dev consiga corrigir sem adivinhar. Testes exploratórios, regressão, automação end-to-end e bug report reproduzível.
+Meu trabalho é achar o que quebrou antes do cliente achar, e descrever de um jeito que o dev consiga corrigir sem adivinhar. Testes exploratórios, regressão, automação end-to-end e bug report reproduzível.
 
 Também desenvolvo. Acho que isso muda a qualidade do registro: quem entende o que tem do outro lado escreve um bug report melhor.
 
@@ -44,13 +44,17 @@ Também desenvolvo. Acho que isso muda a qualidade do registro: quem entende o q
 
 </div>
 
-**[ShootRush](https://github.com/YLeall/ShootRush)** — Jogo multiplayer 3D em primeira pessoa feito em Godot 4, inspirado numa brincadeira de palmas de infância. Mecânica de turnos, visual steampunk e multiplayer online.
+**[ShootRush](https://github.com/YLeall/ShootRush)**  
+Jogo multiplayer 3D em primeira pessoa feito em Godot 4, inspirado numa brincadeira de palmas de infância. Mecânica de turnos, visual steampunk e multiplayer online.
 
-**[copa-deck](https://github.com/YLeall/copa-deck)** — Jogo de cartas de futebol com engine de partida em TypeScript puro, independente de framework, e conteúdo todo orientado a dados (JSON). Campanha single-player completa.
+**[copa-deck](https://github.com/YLeall/copa-deck)**  
+Jogo de cartas de futebol com engine de partida em TypeScript puro, independente de framework, e conteúdo todo orientado a dados (JSON). Campanha single-player completa.
 
-**[meu-fichario](https://github.com/YLeall/meu-fichario)** — Aplicativo de fichário para registro e consulta de vendas.
+**[meu-fichario](https://github.com/YLeall/meu-fichario)**  
+Aplicativo de fichário para registro e consulta de vendas.
 
-**[LibrasFone](https://github.com/yanlealnascimento-lgtm/librasfone)** — TCC: tradutor de Libras em tempo real para chamadas de vídeo. Captura o sinal pela câmera, classifica o gesto e entrega a fala num microfone virtual.
+**[LibrasFone](https://github.com/yanlealnascimento-lgtm/librasfone)**  
+TCC: tradutor de Libras em tempo real para chamadas de vídeo. Captura o sinal pela câmera, classifica o gesto e entrega a fala num microfone virtual.
 
 <div align="center">
 
