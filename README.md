@@ -15,9 +15,11 @@ Trabalho com testes exploratórios, funcionais e de regressão em aplicações m
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Gherkin%20%2F%20BDD-%2323D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Testes exploratórios · regressão · bug report reproduzível · re-teste e fechamento · massa de teste · evidência em vídeo
+Testes exploratórios · regressão · testes de API · bug report reproduzível · re-teste e fechamento · massa de teste · evidência em vídeo
 
 ## 💻 Tecnologias
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
