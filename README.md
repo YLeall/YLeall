@@ -8,7 +8,7 @@ Trabalho com testes exploratórios, funcionais e de regressão em aplicações m
 
 ## 🌐 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-leal-nascimento-451379227/)
-[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:ylnleal32@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:yanlealnasc@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCggeGpBBU5PIsiamKWYebow)
 
 ## 🧪 Qualidade e Testes
