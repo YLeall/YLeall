@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Yan%20Leal&fontSize=55&fontColor=ffffff&fontAlignY=32&desc=Qualidade%20%26%20Testes&descSize=18&descAlignY=52" width="100%"/>
+# Yan Leal Nascimento
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=2EAD33&center=true&vCenter=true&width=620&lines=QA+%7C+Analista+de+Qualidade+e+Testes;2+anos+quebrando+software+antes+do+cliente;Testes+explorat%C3%B3rios+%2B+automa%C3%A7%C3%A3o+E2E" alt="Typing SVG"/>
 
 </div>
-
-#----
 
 Me chamo **Yan**, tenho 2 anos de QA e curso Engenharia de Software na UCSAL.
 
@@ -63,11 +61,7 @@ TCC: tradutor de Libras em tempo real para chamadas de vídeo. Captura o sinal p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-leal-nascimento-451379227/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanlealnasc@gmail.com)
 
-<br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=YLeall&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YLeall&theme=nightowl&hide_border=true&layout=compact)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
