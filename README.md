@@ -14,7 +14,7 @@ Também desenvolvo. Acho que isso muda a qualidade do registro: quem entende o q
 
 <div align="center">
 
-### 〔🧪〕Qualidade & Testes〔🧪〕
+### Qualidade & Testes
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -25,7 +25,7 @@ Também desenvolvo. Acho que isso muda a qualidade do registro: quem entende o q
 
 `testes exploratórios` · `regressão` · `testes de API` · `bug report reproduzível` · `re-teste e fechamento` · `massa de teste` · `evidência em vídeo`
 
-### 〔🤖〕Tecnologias & Linguagens〔🤖〕
+### Tecnologias & Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,7 +38,7 @@ Também desenvolvo. Acho que isso muda a qualidade do registro: quem entende o q
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### 〔📌〕Projetos〔📌〕
+### Projetos
 
 </div>
 
@@ -56,7 +56,7 @@ TCC: tradutor de Libras em tempo real para chamadas de vídeo. Captura o sinal p
 
 <div align="center">
 
-### 〔📱〕Entre em contato comigo〔📱〕
+### Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-leal-nascimento-451379227/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanlealnasc@gmail.com)
